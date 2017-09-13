@@ -1,0 +1,240 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+}
+
+#main-container{
+	height: 90%;
+	width: 100%;
+}
+
+.kontak{
+	margin-left: 15px;
+	margin-top:  70px;
+}
+.kontak a{
+	margin-left: 10px;
+}
+.line{
+	width: 100%;
+	height: 3px;
+	background: #fff;
+	float: left;
+	margin-top: 40px;
+}
+
+#left-panel{
+	float: left;
+	position:fixed;
+	width: 18%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	background: #180053;
+	color: #fff;
+}
+#panel-header{
+	height: 130px;
+	width: 100%;
+	margin-top: 10px;
+	color: #fff;
+	background: #180053;
+}
+#logo{
+	margin: 80px 0px 0px 38px;
+}
+
+#list{
+	width: 100%;
+}
+
+.panels{
+	transition: color 0.2s ease;
+    border: 0;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 0.25em;
+    line-height: 1.75;
+    outline: 0;
+    padding: 1.35em 0;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+a:hover{
+	transition-delay: 0.1s;
+	transition-duration: 0.3s;
+	color: #5e42a6;
+}
+
+
+#right-panel{
+	float: right;
+	width: 82%;
+	height: 111%;
+	background-color: #5e42a6;
+}
+
+#container{
+	width: 100%;
+	height: 111%;
+
+
+}
+
+
+
+
+h1{
+	color: #ffffff;
+    font-weight: bold;
+    font-size:70px;
+    line-height: 1.5;
+}
+
+h2{
+	color: #ffffff;
+    font-weight: bold;
+    font-size:45px;
+    line-height: 1.5;
+}
+h4{
+	color: #ffffff;
+    font-weight: bold;
+    font-size:15px;
+    line-height: 1.5;
+}
+h5{
+	color: #000;
+    font-weight: bold;
+    font-size:15px;
+    line-height: 1.5;
+}
+
+
+#home{
+	background-color: #5e42a6;
+	width: 100%;
+	height: 100%;
+}
+.isi-home{
+	position:absolute;
+	color: #fff; 
+	width:600px;
+	margin:50px 0px 0px 200px ;
+	
+}
+
+#biografi{
+	background-color: #000;
+	width: 100%;
+	height: 100%;	
+}
+.isi-bio{
+	position:absolute;
+	color: #fff; 
+	width:900px;
+	margin-left: 100px;
+}
+
+.tab-bio{
+	font-size: 30px;
+	color: #ffffff;
+	font-weight: bold;	
+}
+
+#education{
+	background-color: #009bae;
+	width: 100%;
+	height: 100%;
+}
+.isi-edu{
+	position:absolute;
+	color: #fff; 
+	width:900px;
+	margin-left: 100px;
+}
+.timeline1{
+	width:300px; 
+	height:150px;
+	padding-top: 5px;
+	background-color: white;
+	border-radius: 20px;
+	margin-left: 30; 
+}
+
+.timeline2{
+	width:300px; 
+	height:150px;
+	padding-top: 5px;
+	background-color: white;
+	border-radius: 20px;
+	margin-left: 560px; 
+}
+.timeline3{
+	width:300px; 
+	height:150px;
+	padding-top: 5px;
+	background-color: white;
+	border-radius: 20px;
+	margin-left: 30;  
+}
+
+
+#skill{
+	background-color: #3a0035;
+	width: 100%;
+	height: 100%;
+}
+.isi-skill{
+	position:absolute;
+	color: #fff; 
+	width:900px;
+	margin-left: 60px;
+}
+.tab-skill{
+	margin-left: 100px;
+}
+
+#hobby{
+	background-color: #5d5d5d;
+	width: 100%;
+	height: 100%;
+}
+.isi-hobby{
+	position:absolute;
+	color: #fff; 
+	width:900px;
+	margin-left: 60px;
+}
+.tab-hobby{
+	margin-top: 160px;
+}
+
+
+#gallery{
+	background-color: #00bef2;
+	width: 100%;
+	height: 100%;
+}
+.isi-gal{
+	position:absolute;
+	color: #fff; 
+	width:900px;
+	margin-left: 60px;
+}
+
+#slideshow {
+	border:3px solid #000;width:950px;height:100px;border-radius:2px;background-color:#E4E5E5;
+    position:relative;
+    height:460px;
+}
+
+
+
